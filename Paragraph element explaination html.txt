@@ -1,0 +1,30 @@
+Paragraph element
+__________________
+
+* The is <p> tag in html will defines the paragraph.
+
+* This tag has both opening and closing tags.
+
+* It is a block-level element and always starts on a new line.
+
+* The HTML <p> tag supports the following attributes.
+
+
+Attribute     Value      Description 
+_________     ______     ____________
+
+align         left       Specifies the text alignment within a paragraph.
+              right
+              center
+              justify 
+
+
+Syntax : <p align = "value"> Paragraph body </p>
+               
+ 
+ 
+
+  
+
+
+
